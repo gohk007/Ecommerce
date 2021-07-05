@@ -1,12 +1,15 @@
 {
-  "name": "FlatList",
-  "displayName": "FlatList",
+  "name": "Ecommerce",
+  "displayName": "Ecommerce",
   "expo": {
-    "name": "FlatList",
-    "slug": "FlatList",
+    "name": "Ecommerce",
+    "slug": "Ecommerce",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.gohk007.Ecommerce"
+    }
   }
 }
